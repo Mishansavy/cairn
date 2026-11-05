@@ -1,0 +1,5859 @@
+{
+  "generatedAt": "2026-11-05T03:47:51.054274+00:00",
+  "projects": [
+    {
+      "name": "cubrid-lab/pycubrid",
+      "url": "https://github.com/cubrid-lab/pycubrid",
+      "description": "Pure Python DB-API 2.0 (PEP 249) driver for CUBRID with asyncio and SSL/TLS support",
+      "language": "Python",
+      "stars": 31,
+      "topics": [
+        "cubrid",
+        "database",
+        "dbapi",
+        "driver",
+        "pep249",
+        "pure-python",
+        "python",
+        "connector",
+        "cubrid-database",
+        "pep561"
+      ],
+      "interests": [
+        "web",
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.36,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "cogent3/cogent3",
+      "url": "https://github.com/cogent3/cogent3",
+      "description": "Comparative Genomics Toolkit 3",
+      "language": "Python",
+      "stars": 140,
+      "topics": [
+        "bioinformatics",
+        "pycogent",
+        "statistics",
+        "data-science",
+        "biology",
+        "genomics",
+        "evolution",
+        "biopython",
+        "markov-chain",
+        "molecular-evolution"
+      ],
+      "interests": [
+        "science"
+      ],
+      "tier": "beginner",
+      "complexity": 0.48,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 6,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "amd/gaia",
+      "url": "https://github.com/amd/gaia",
+      "description": "Build AI agents for your PC",
+      "language": "Python",
+      "stars": 1614,
+      "topics": [
+        "ai",
+        "amd",
+        "genai",
+        "ryzenai",
+        "agents",
+        "aipc",
+        "local",
+        "privacy"
+      ],
+      "interests": [
+        "machine-learning",
+        "security"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 34,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "tenstorrent/tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "Python",
+      "stars": 1743,
+      "topics": [
+        "llama",
+        "llm",
+        "metal",
+        "stable-diffusion",
+        "tenstorrent",
+        "accelerator",
+        "scale-out",
+        "kernels",
+        "ai",
+        "deepseek"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "expert",
+      "complexity": 0.99,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.5,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 14437,
+      "topics": [
+        "ai",
+        "ai-governance",
+        "artificial-intelligence",
+        "context-engineering",
+        "context-graphs",
+        "decision-intelligence",
+        "explainable-ai",
+        "generative-ai",
+        "graph-rag",
+        "knowledge-graph"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.57,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 20,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
+      "language": "Python",
+      "stars": 3921,
+      "topics": [
+        "glean",
+        "knowledge-graph",
+        "ollama",
+        "python",
+        "rag",
+        "ai",
+        "enterprise-search",
+        "graphrag",
+        "mcp",
+        "self-hosted"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.9,
+        "goodFirstIssues": 37,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "MetaMorphic-Digital/draw-steel",
+      "url": "https://github.com/MetaMorphic-Digital/draw-steel",
+      "description": "The official Draw Steel implementation for FoundryVTT",
+      "language": "JavaScript",
+      "stars": 78,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.46,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.5,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "Foundryborne/daggerheart",
+      "url": "https://github.com/Foundryborne/daggerheart",
+      "description": "The official Foundry VTT implementation of the Daggerheart system",
+      "language": "JavaScript",
+      "stars": 189,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.51,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "nusmodifications/nusmods",
+      "url": "https://github.com/nusmodifications/nusmods",
+      "description": "\ud83c\udfeb Official course planning platform for National University of Singapore.",
+      "language": "JavaScript",
+      "stars": 691,
+      "topics": [
+        "nusmods",
+        "national-university-of-singapore",
+        "webapp",
+        "react",
+        "typescript",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web",
+        "education"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.6,
+        "goodFirstIssues": 19,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "nirholas/three.ws",
+      "url": "https://github.com/nirholas/three.ws",
+      "description": "Give your AI agent a 3D body: text or a photo to a rigged GLB avatar, an LLM brain, a Solana wallet and a one-tag embed. Keyless MCP server for Claude, Cursor and Codex. 50k+ models forged.",
+      "language": "JavaScript",
+      "stars": 268,
+      "topics": [
+        "animation",
+        "avatar",
+        "gltf",
+        "llm",
+        "mcp",
+        "webgl",
+        "3d-generation",
+        "ai-agents",
+        "generative-ai",
+        "glb"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.88,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "Syknapse/Contribute-To-This-Project",
+      "url": "https://github.com/Syknapse/Contribute-To-This-Project",
+      "description": "This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.",
+      "language": "JavaScript",
+      "stars": 2572,
+      "topics": [
+        "help-wanted",
+        "good-first-issue",
+        "contributions-welcome",
+        "html",
+        "github-desktop",
+        "github",
+        "open-source",
+        "contributions",
+        "community",
+        "beginners"
+      ],
+      "interests": [
+        "web",
+        "education"
+      ],
+      "tier": "beginner",
+      "complexity": 0.43,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "career-ops-hq/career-ops",
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.",
+      "language": "JavaScript",
+      "stars": 80244,
+      "topics": [
+        "ai-agent",
+        "career",
+        "claude-code",
+        "job-search",
+        "open-source",
+        "resume",
+        "ats",
+        "job-application",
+        "ai-job-search",
+        "cover-letter"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.77,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 7,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "processing/p5.js",
+      "url": "https://github.com/processing/p5.js",
+      "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+      "language": "JavaScript",
+      "stars": 24304,
+      "topics": [
+        "javascript",
+        "graphics",
+        "education",
+        "learning",
+        "art",
+        "design",
+        "sound",
+        "html",
+        "p5js",
+        "creative-coding"
+      ],
+      "interests": [
+        "web",
+        "education"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.69,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.7,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 40,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "pytorch/test-infra",
+      "url": "https://github.com/pytorch/test-infra",
+      "description": "This repository hosts code that supports the testing infrastructure for the PyTorch organization. For example, this repo hosts the logic to track disabled tests and slow tests, as well as our continuation integration jobs HUD/dashboard.",
+      "language": "TypeScript",
+      "stars": 116,
+      "topics": [],
+      "interests": [
+        "machine-learning",
+        "devtools",
+        "infrastructure",
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 0.9,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.63,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "answerLoops/answerLoops",
+      "url": "https://github.com/answerLoops/answerLoops",
+      "description": "\u2b50\ufe0f Self-hostable AI support for Discord, GitHub, Slack & Discourse communities. Answers from your knowledge source, checked by a second AI agent, approved by your team before it's sent.",
+      "language": "TypeScript",
+      "stars": 23,
+      "topics": [
+        "ai-agent",
+        "customer-support",
+        "discord-bot",
+        "helpdesk",
+        "knowledge-base",
+        "mcp",
+        "mcp-server",
+        "rag",
+        "self-hosted",
+        "slack-bot"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 32,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "db-ux-design-system/core-web",
+      "url": "https://github.com/db-ux-design-system/core-web",
+      "description": "DB UX Design System monorepo - Provides Design Tokens and components for Web UIs",
+      "language": "TypeScript",
+      "stars": 137,
+      "topics": [
+        "design-system",
+        "a11y",
+        "accessibility",
+        "angular",
+        "components",
+        "css",
+        "html",
+        "mitosis",
+        "react",
+        "scss"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "expert",
+      "complexity": 0.89,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.83,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 13841,
+      "topics": [],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 20,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 12133,
+      "topics": [
+        "meshery",
+        "management-plane",
+        "hacktoberfest",
+        "kubernetes",
+        "gsoc",
+        "control-plane",
+        "cloud-native",
+        "golang",
+        "cncf",
+        "reactjs"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.98,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 53,
+        "helpWantedIssues": 265,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "lingdojo/kana-dojo",
+      "url": "https://github.com/lingdojo/kana-dojo",
+      "description": "Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome!",
+      "language": "TypeScript",
+      "stars": 3796,
+      "topics": [
+        "japanese",
+        "learn-japanese",
+        "hacktoberfest",
+        "japanese-language",
+        "react",
+        "nextjs",
+        "open-source",
+        "language-learning",
+        "beginner-friendly",
+        "contributions-welcome"
+      ],
+      "interests": [
+        "web",
+        "education"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.4,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 185,
+        "helpWantedIssues": 259,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "SigNoz/signoz",
+      "url": "https://github.com/SigNoz/signoz",
+      "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
+      "language": "TypeScript",
+      "stars": 32531,
+      "topics": [
+        "observability",
+        "application-monitoring",
+        "opentelemetry",
+        "distributed-tracing",
+        "apm",
+        "go",
+        "monitoring",
+        "react",
+        "self-hosted",
+        "typescript"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.8,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.67,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "fullsend-ai/fullsend",
+      "url": "https://github.com/fullsend-ai/fullsend",
+      "description": "On the path to fully autonomous agentic engineering",
+      "language": "Go",
+      "stars": 171,
+      "topics": [
+        "adlc",
+        "agent",
+        "agentic",
+        "ci",
+        "harness",
+        "meta-harness",
+        "sdlc",
+        "sandbox"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.75,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.9,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "eugenioenko/ttt",
+      "url": "https://github.com/eugenioenko/ttt",
+      "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
+      "language": "Go",
+      "stars": 1054,
+      "topics": [
+        "cli",
+        "code-editor",
+        "go",
+        "golang",
+        "lsp",
+        "terminal",
+        "terminal-emulator",
+        "text-editor",
+        "tui",
+        "vscode-alternative"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.69,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.6,
+        "externalMergeShare": 0.73,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 10,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "VictoriaMetrics/operator",
+      "url": "https://github.com/VictoriaMetrics/operator",
+      "description": "Kubernetes operator for Victoria Metrics",
+      "language": "Go",
+      "stars": 597,
+      "topics": [],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "volcano-sh/volcano",
+      "url": "https://github.com/volcano-sh/volcano",
+      "description": "A Cloud Native Batch System (Project under CNCF)",
+      "language": "Go",
+      "stars": 6064,
+      "topics": [
+        "batch-systems",
+        "kubernetes",
+        "golang",
+        "hpc",
+        "bigdata",
+        "machine-learning",
+        "gene",
+        "ai",
+        "serving",
+        "training"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.66,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 16,
+        "helpWantedIssues": 29,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "podman-container-tools/podman",
+      "url": "https://github.com/podman-container-tools/podman",
+      "description": "Podman: A tool for managing OCI containers and pods.",
+      "language": "Go",
+      "stars": 33182,
+      "topics": [
+        "containers",
+        "docker",
+        "kubernetes",
+        "linux",
+        "oci"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.81,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 18,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "language": "Go",
+      "stars": 46598,
+      "topics": [
+        "anns",
+        "nearest-neighbor-search",
+        "faiss",
+        "vector-search",
+        "image-search",
+        "hnsw",
+        "vector-database",
+        "embedding-database",
+        "embedding-store",
+        "vector-store"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.86,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 28,
+        "helpWantedIssues": 13,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "stars": 24545,
+      "topics": [
+        "argo",
+        "kubernetes",
+        "continuous-deployment",
+        "gitops",
+        "continuous-delivery",
+        "docker",
+        "cd",
+        "cicd",
+        "pipeline",
+        "devops"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.85,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 39,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "glotzerlab/hoomd-rs",
+      "url": "https://github.com/glotzerlab/hoomd-rs",
+      "description": "Monte Carlo and Molecular dynamics soft matter simulations in Rust.",
+      "language": "Rust",
+      "stars": 26,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.37,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "OriEra-engine/engine",
+      "url": "https://github.com/OriEra-engine/engine",
+      "description": "AI-native, mixed-reality, self-evolving open world engine. 11-layer architecture, 5 platforms (PC / Mobile / Web / AR / BCI-reserved).",
+      "language": "Rust",
+      "stars": 23,
+      "topics": [
+        "ai-native",
+        "ar",
+        "ecs",
+        "game-engine",
+        "mixed-reality",
+        "rust",
+        "spatial-computing",
+        "wasm",
+        "webgpu",
+        "world-simulation"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "games",
+        "mobile"
+      ],
+      "tier": "beginner",
+      "complexity": 0.57,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.4,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dsx-ai-factory/infra-controller",
+      "url": "https://github.com/dsx-ai-factory/infra-controller",
+      "description": "NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking",
+      "language": "Rust",
+      "stars": 322,
+      "topics": [],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.83,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 32,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "nanvix/nanvix",
+      "url": "https://github.com/nanvix/nanvix",
+      "description": "Lightweight Sandbox Powered by a Purpose-Built VM and OS",
+      "language": "Rust",
+      "stars": 318,
+      "topics": [
+        "operating-system",
+        "rust",
+        "microkernel",
+        "multikernel",
+        "virtual-machine",
+        "virtualization",
+        "vm",
+        "vmm"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "lakehq/sail",
+      "url": "https://github.com/lakehq/sail",
+      "description": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "language": "Rust",
+      "stars": 3487,
+      "topics": [
+        "arrow",
+        "big-data",
+        "pyspark",
+        "rust",
+        "spark",
+        "sql",
+        "datafusion",
+        "python",
+        "artificial-intelligence",
+        "data-engineering"
+      ],
+      "interests": [
+        "machine-learning",
+        "data"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.62,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.5,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 15,
+        "helpWantedIssues": 27,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ai-dynamo/dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "stars": 8441,
+      "topics": [
+        "diffusion",
+        "disaggregated-serving",
+        "kubernetes",
+        "llm-inference",
+        "omni",
+        "routing-engine",
+        "rust",
+        "sglang",
+        "tensorrt-llm",
+        "vllm"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.9,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.7,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "lance-format/lance",
+      "url": "https://github.com/lance-format/lance",
+      "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+      "language": "Rust",
+      "stars": 7259,
+      "topics": [
+        "machine-learning",
+        "computer-vision",
+        "data-format",
+        "deep-learning",
+        "python",
+        "apache-arrow",
+        "duckdb",
+        "mlops",
+        "data-analysis",
+        "data-analytics"
+      ],
+      "interests": [
+        "machine-learning",
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.63,
+        "goodFirstIssues": 24,
+        "helpWantedIssues": 12,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+      "language": "Rust",
+      "stars": 25160,
+      "topics": [
+        "database",
+        "embedded-database",
+        "sql",
+        "sqlite3",
+        "webassembly"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.84,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.53,
+        "goodFirstIssues": 17,
+        "helpWantedIssues": 38,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ERDDAP/erddap",
+      "url": "https://github.com/ERDDAP/erddap",
+      "description": "ERDDAP is a scientific data server that gives users a simple, consistent way to download subsets of gridded and tabular scientific datasets in common file formats and make graphs and maps. ERDDAP is a Free and Open Source (Apache and Apache-like) Java Servlet from NOAA NMFS SWFSC Environmental Research Division (ERD).",
+      "language": "Java",
+      "stars": 123,
+      "topics": [
+        "data",
+        "environmental",
+        "scientific",
+        "server",
+        "noaa",
+        "erddap"
+      ],
+      "interests": [
+        "infrastructure",
+        "data",
+        "science"
+      ],
+      "tier": "advanced",
+      "complexity": 0.74,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 1.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "opensearch-project/ml-commons",
+      "url": "https://github.com/opensearch-project/ml-commons",
+      "description": "ml-commons provides a set of common machine learning algorithms, e.g. k-means, or linear regression, to help developers build ML related features within OpenSearch. ",
+      "language": "Java",
+      "stars": 158,
+      "topics": [
+        "machine-learning-algorithms"
+      ],
+      "interests": [
+        "education"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.63,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 20,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "INRIA/spoon",
+      "url": "https://github.com/INRIA/spoon",
+      "description": "Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.",
+      "language": "Java",
+      "stars": 1963,
+      "topics": [
+        "code-analysis",
+        "code-transformation",
+        "metaprogramming",
+        "code-generation",
+        "abstract-syntax-tree",
+        "ast",
+        "static-analysis",
+        "compile-time-reflection",
+        "java",
+        "java9"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.59,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 17,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "apache/gravitino",
+      "url": "https://github.com/apache/gravitino",
+      "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+      "language": "Java",
+      "stars": 3346,
+      "topics": [
+        "datalake",
+        "lakehouse",
+        "metadata",
+        "federated-query",
+        "stratosphere",
+        "metalake",
+        "skycomputing",
+        "data-catalog",
+        "ai-catalog",
+        "model-catalog"
+      ],
+      "interests": [
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.73,
+        "goodFirstIssues": 43,
+        "helpWantedIssues": 10,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "StarRocks/starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "stars": 12238,
+      "topics": [
+        "database",
+        "olap",
+        "sql",
+        "analytics",
+        "big-data",
+        "realtime-database",
+        "vectorized",
+        "distributed-database",
+        "real-time-analytics",
+        "mpp"
+      ],
+      "interests": [
+        "infrastructure",
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 0.89,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "camunda/camunda",
+      "url": "https://github.com/camunda/camunda",
+      "description": "Agentic Orchestration Platform",
+      "language": "Java",
+      "stars": 4349,
+      "topics": [
+        "microservices",
+        "orchestration-framework",
+        "workflow-engine",
+        "java",
+        "bpmn",
+        "workflow",
+        "agentic-orchestration"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.96,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 41,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "opensearch-project/OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "description": "\ud83d\udd0e Open source distributed and RESTful search engine.",
+      "language": "Java",
+      "stars": 13959,
+      "topics": [
+        "search",
+        "search-engine",
+        "analytics",
+        "java",
+        "foss",
+        "apache2"
+      ],
+      "interests": [
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 0.9,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.57,
+        "goodFirstIssues": 67,
+        "helpWantedIssues": 15,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 78496,
+      "topics": [
+        "elasticsearch",
+        "java",
+        "search-engine"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.97,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 21,
+        "helpWantedIssues": 75,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ASGC-Game-Jam/asgc-gamejam-2026",
+      "url": "https://github.com/ASGC-Game-Jam/asgc-gamejam-2026",
+      "description": "The ASGC 2026 game jam!",
+      "language": "C++",
+      "stars": 28,
+      "topics": [],
+      "interests": [
+        "games"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 1.7,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 14,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "qualcomm/eld",
+      "url": "https://github.com/qualcomm/eld",
+      "description": "Embedded Linker (eld)",
+      "language": "C++",
+      "stars": 262,
+      "topics": [
+        "embedded",
+        "embedded-systems"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.67,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "lfortran/lfortran",
+      "url": "https://github.com/lfortran/lfortran",
+      "description": "Official main repository for LFortran",
+      "language": "C++",
+      "stars": 1258,
+      "topics": [
+        "fortran",
+        "interactive",
+        "compiler",
+        "library",
+        "repl",
+        "jupyter",
+        "jupyter-notebook",
+        "jupyter-kernels",
+        "fortran-compiler"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.8,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "QMCPACK/qmcpack",
+      "url": "https://github.com/QMCPACK/qmcpack",
+      "description": "Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids with full performance portable GPU support",
+      "language": "C++",
+      "stars": 413,
+      "topics": [
+        "quantum-monte-carlo",
+        "electronic-structure",
+        "c-plus-plus",
+        "high-performance-computing",
+        "quantum-chemistry",
+        "cuda",
+        "gpu",
+        "hpc",
+        "mpi",
+        "rocm"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.85,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.5,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "NVIDIA/cudf",
+      "url": "https://github.com/NVIDIA/cudf",
+      "description": "cuDF - GPU DataFrame Library ",
+      "language": "C++",
+      "stars": 9793,
+      "topics": [
+        "gpu",
+        "rapids",
+        "cudf",
+        "arrow",
+        "cuda",
+        "pandas",
+        "dataframe",
+        "dask",
+        "data-analysis",
+        "data-science"
+      ],
+      "interests": [
+        "devtools",
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.83,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.67,
+        "goodFirstIssues": 38,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "NVIDIA/cccl",
+      "url": "https://github.com/NVIDIA/cccl",
+      "description": "CUDA Core Compute Libraries",
+      "language": "C++",
+      "stars": 2568,
+      "topics": [
+        "accelerated-computing",
+        "cpp",
+        "cpp-programming",
+        "cuda",
+        "cuda-cpp",
+        "cuda-kernels",
+        "cuda-library",
+        "cuda-programming",
+        "gpu",
+        "gpu-acceleration"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.81,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 12,
+        "helpWantedIssues": 5,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "description": "VERY experimental Nintendo Switch 2 emulator",
+      "language": "C++",
+      "stars": 3804,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.5,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 5,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 133398,
+      "topics": [
+        "ggml"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "expert",
+      "complexity": 0.86,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.67,
+        "goodFirstIssues": 15,
+        "helpWantedIssues": 25,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "FreeCAD/FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "stars": 35132,
+      "topics": [
+        "freecad",
+        "engineering",
+        "opencascade",
+        "architecture",
+        "cad",
+        "bim",
+        "fem",
+        "3d",
+        "3d-printing",
+        "linux"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 1.0,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 151,
+        "helpWantedIssues": 141,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "react/react-native",
+      "url": "https://github.com/react/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "stars": 126857,
+      "topics": [
+        "android",
+        "app-framework",
+        "ios",
+        "mobile",
+        "mobile-development",
+        "react-native",
+        "cross-platform",
+        "react"
+      ],
+      "interests": [
+        "web",
+        "devtools",
+        "mobile"
+      ],
+      "tier": "expert",
+      "complexity": 0.91,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 1.0,
+        "externalMergeShare": 0.7,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "orcasound/orcahello",
+      "url": "https://github.com/orcasound/orcahello",
+      "description": "Real-time AI-assisted killer whale notification system (model and moderator portal) :star:",
+      "language": "C#",
+      "stars": 62,
+      "topics": [
+        "artificial-intelligence",
+        "audio-analysis",
+        "audio-processing",
+        "bioacoustics",
+        "deep-learning",
+        "inference",
+        "machine-learning",
+        "marine",
+        "marine-biology",
+        "neural-network"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.66,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.83,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "Trauma-Station/Trauma-Station",
+      "url": "https://github.com/Trauma-Station/Trauma-Station",
+      "description": "Under the Iron fist of Nanotrasen.",
+      "language": "C#",
+      "stars": 56,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.94,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "AzureAD/microsoft-identity-web",
+      "url": "https://github.com/AzureAD/microsoft-identity-web",
+      "description": "Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C",
+      "language": "C#",
+      "stars": 791,
+      "topics": [
+        "asp-net-core",
+        "microsoft-identity-platform",
+        "aadv2",
+        "authentication"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.83,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "unoplatform/uno",
+      "url": "https://github.com/unoplatform/uno",
+      "description": "Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.",
+      "language": "C#",
+      "stars": 10102,
+      "topics": [
+        "uno",
+        "uwp",
+        "android",
+        "uno-platform",
+        "roslyn",
+        "xamarin",
+        "webassembly",
+        "windows",
+        "mvvm",
+        "wasm"
+      ],
+      "interests": [
+        "web",
+        "devtools",
+        "mobile"
+      ],
+      "tier": "expert",
+      "complexity": 0.87,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.63,
+        "goodFirstIssues": 133,
+        "helpWantedIssues": 5,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dotnet/winforms",
+      "url": "https://github.com/dotnet/winforms",
+      "description": "Windows Forms is a .NET UI framework for building Windows desktop applications.",
+      "language": "C#",
+      "stars": 4880,
+      "topics": [
+        "winforms",
+        "windows-forms",
+        "desktop",
+        "hacktoberfest",
+        "help-wanted"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.83,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 88,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "stryker-mutator/stryker-net",
+      "url": "https://github.com/stryker-mutator/stryker-net",
+      "description": "Mutation testing for .NET core and .NET framework!",
+      "language": "C#",
+      "stars": 2122,
+      "topics": [
+        "mutation-testing",
+        "stryker",
+        "dotnet-core",
+        "dotnet-framework",
+        "hacktoberfest",
+        "dotnet-stryker"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.47,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dotnet/spark",
+      "url": "https://github.com/dotnet/spark",
+      "description": ".NET for Apache\u00ae Spark\u2122 makes Apache Spark\u2122 easily accessible to .NET developers.",
+      "language": "C#",
+      "stars": 2097,
+      "topics": [
+        "spark",
+        "csharp",
+        "dotnet",
+        "analytics",
+        "bigdata",
+        "spark-streaming",
+        "spark-sql",
+        "machine-learning",
+        "fsharp",
+        "dotnet-core"
+      ],
+      "interests": [
+        "machine-learning",
+        "data"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "bitwarden/server",
+      "url": "https://github.com/bitwarden/server",
+      "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+      "language": "C#",
+      "stars": 20571,
+      "topics": [
+        "aspnetcore",
+        "aspnet",
+        "sql-server",
+        "api",
+        "sql",
+        "csharp",
+        "bitwarden",
+        "dotnet-core",
+        "dotnet",
+        "docker"
+      ],
+      "interests": [
+        "web",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.7,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "open-telemetry/opentelemetry-ruby-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-ruby-contrib",
+      "description": "Contrib Packages for the OpenTelemetry Ruby API and SDK implementation.",
+      "language": "Ruby",
+      "stars": 137,
+      "topics": [
+        "cncf",
+        "distributed-tracing",
+        "opentelemetry",
+        "opentelemetry-instrumentation",
+        "ruby",
+        "telemetry",
+        "tracing"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.45,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 1.4,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 20,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "openfoodfoundation/openfoodnetwork",
+      "url": "https://github.com/openfoodfoundation/openfoodnetwork",
+      "description": "Connect suppliers, distributors and consumers to trade local produce.",
+      "language": "Ruby",
+      "stars": 1303,
+      "topics": [
+        "food",
+        "ruby",
+        "food-hubs",
+        "rails",
+        "farmers",
+        "sustainable-consumption",
+        "nonprofit",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 1.3,
+        "externalMergeShare": 0.83,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "az-digital/az_quickstart",
+      "url": "https://github.com/az-digital/az_quickstart",
+      "description": "UArizona's web content management system built with Drupal.",
+      "language": "PHP",
+      "stars": 52,
+      "topics": [],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.55,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 1.0,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 20,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "LibreSign/libresign",
+      "url": "https://github.com/LibreSign/libresign",
+      "description": "Control how your documents get signed",
+      "language": "PHP",
+      "stars": 840,
+      "topics": [
+        "nextcloud",
+        "nextcloud-app",
+        "signer",
+        "pdf-sign",
+        "pdf",
+        "pdf-signature",
+        "pdf-signer",
+        "php",
+        "vuejs",
+        "jsignpdf"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.74,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.53,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "elabftw/elabftw",
+      "url": "https://github.com/elabftw/elabftw",
+      "description": ":notebook: eLabFTW is the most popular open source electronic lab notebook for research labs.",
+      "language": "PHP",
+      "stars": 1480,
+      "topics": [
+        "laboratory",
+        "notebook",
+        "lims",
+        "php",
+        "mysql",
+        "docker"
+      ],
+      "interests": [
+        "infrastructure",
+        "science"
+      ],
+      "tier": "advanced",
+      "complexity": 0.8,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "vimeo/psalm",
+      "url": "https://github.com/vimeo/psalm",
+      "description": "A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications",
+      "language": "PHP",
+      "stars": 5907,
+      "topics": [
+        "static-analysis",
+        "php",
+        "type-inference",
+        "security-analysis",
+        "taint-analysis",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "devtools",
+        "security"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 15,
+        "helpWantedIssues": 46,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "language": "PHP",
+      "stars": 5580,
+      "topics": [
+        "openemr",
+        "practice-management",
+        "emr",
+        "ehr",
+        "php",
+        "linux",
+        "windows",
+        "osx",
+        "healthcare",
+        "hit"
+      ],
+      "interests": [
+        "education"
+      ],
+      "tier": "expert",
+      "complexity": 0.92,
+      "health": 100,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.67,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "RealDevSquad/website-backend",
+      "url": "https://github.com/RealDevSquad/website-backend",
+      "description": "The backend code for all our website-related apps",
+      "language": "JavaScript",
+      "stars": 74,
+      "topics": [
+        "nodejs",
+        "backend",
+        "api",
+        "rest-api",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.44,
+      "health": 99,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.8,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 15,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ember-bootstrap/ember-bootstrap",
+      "url": "https://github.com/ember-bootstrap/ember-bootstrap",
+      "description": "Ember-cli addon for using Bootstrap as native Ember components.",
+      "language": "JavaScript",
+      "stars": 490,
+      "topics": [
+        "ember",
+        "ember-cli-addon",
+        "bootstrap",
+        "ember-addon",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.54,
+      "health": 99,
+      "signals": {
+        "daysSinceLastMerge": 1.4,
+        "medianDaysToMerge": 1.9,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 14,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "jhillyerd/enmime",
+      "url": "https://github.com/jhillyerd/enmime",
+      "description": "MIME mail encoding and decoding package for Go",
+      "language": "Go",
+      "stars": 526,
+      "topics": [
+        "mime",
+        "golang",
+        "email",
+        "mail",
+        "parser",
+        "encoder",
+        "decoder",
+        "go"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.28,
+      "health": 98,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 3.4,
+        "externalMergeShare": 0.7,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "reactjs/react.dev",
+      "url": "https://github.com/reactjs/react.dev",
+      "description": "The React documentation website",
+      "language": "JavaScript",
+      "stars": 11831,
+      "topics": [
+        "javascript",
+        "react",
+        "website",
+        "documentation"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.68,
+      "health": 97,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 3.1,
+        "externalMergeShare": 0.47,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 49445,
+      "topics": [
+        "agent",
+        "code-review",
+        "code-review-assistant",
+        "harness",
+        "repository-level-context",
+        "agent-skills"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.68,
+      "health": 97,
+      "signals": {
+        "daysSinceLastMerge": 0.6,
+        "medianDaysToMerge": 6.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 6,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "stars": 13762,
+      "topics": [
+        "syntax-highlighting",
+        "language-grammars",
+        "language-statistics",
+        "linguistic"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.61,
+      "health": 96,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 6.4,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 134,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "language": "Python",
+      "stars": 160427,
+      "topics": [
+        "ai",
+        "gpt",
+        "llm",
+        "openai",
+        "python",
+        "agent",
+        "nextjs",
+        "workflow",
+        "genai",
+        "automation"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.88,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 12,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "stars": 128671,
+      "topics": [
+        "kubernetes",
+        "go",
+        "cncf",
+        "containers"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.95,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 141,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "agentic-os-org/ANOLISA",
+      "url": "https://github.com/agentic-os-org/ANOLISA",
+      "description": "ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.",
+      "language": "Rust",
+      "stars": 659,
+      "topics": [
+        "agentic-os",
+        "linux",
+        "skill",
+        "agent-infrastructure",
+        "agent-memory",
+        "agent-runtime",
+        "agent-security",
+        "agentic-ai",
+        "ai-agents",
+        "context-engineering"
+      ],
+      "interests": [
+        "infrastructure",
+        "security"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "USACE/cwms-data-api",
+      "url": "https://github.com/USACE/cwms-data-api",
+      "description": "Corps Water Management System RESTful Data Service https://cwms-data-api.readthedocs.io/latest",
+      "language": "Java",
+      "stars": 30,
+      "topics": [],
+      "interests": [
+        "web",
+        "data"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.72,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 1.6,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": 38498,
+      "topics": [
+        "dotnet",
+        "aspnetcore",
+        "hacktoberfest",
+        "help-wanted"
+      ],
+      "interests": [
+        "web",
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.88,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 15,
+        "helpWantedIssues": 136,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "stars": 5832,
+      "topics": [
+        "elixir",
+        "ruby",
+        "php",
+        "python",
+        "javascript",
+        "java",
+        "rust",
+        "dotnet",
+        "go",
+        "elm"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.8,
+      "health": 95,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ChainSafe/lodestar",
+      "url": "https://github.com/ChainSafe/lodestar",
+      "description": "\ud83c\udf1f Ethereum Consensus client for the Zig and TypeScript ecosystem",
+      "language": "TypeScript",
+      "stars": 1432,
+      "topics": [
+        "ethereum",
+        "beacon-chain",
+        "proof-of-stake",
+        "typescript",
+        "eth2",
+        "serenity",
+        "blockchain"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.85,
+      "health": 94,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.37,
+        "goodFirstIssues": 12,
+        "helpWantedIssues": 23,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "smithy-lang/smithy-rs",
+      "url": "https://github.com/smithy-lang/smithy-rs",
+      "description": "Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.",
+      "language": "Rust",
+      "stars": 686,
+      "topics": [
+        "aws",
+        "aws-sdk-rust",
+        "rust"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.76,
+      "health": 94,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.0,
+        "externalMergeShare": 0.37,
+        "goodFirstIssues": 31,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "benwbrum/fromthepage",
+      "url": "https://github.com/benwbrum/fromthepage",
+      "description": "FromThePage is a wiki-like application for crowdsourcing transcription of handwritten documents.",
+      "language": "Ruby",
+      "stars": 187,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.75,
+      "health": 94,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.37,
+        "goodFirstIssues": 49,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "wuisabel-gif/MemWhale",
+      "url": "https://github.com/wuisabel-gif/MemWhale",
+      "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
+      "language": "Rust",
+      "stars": 147,
+      "topics": [
+        "cli",
+        "command-line",
+        "debugging",
+        "developer-tools",
+        "jetson",
+        "local-first",
+        "memory",
+        "react",
+        "robotics",
+        "rust"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.56,
+      "health": 92,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 16,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "nextcloud/recognize",
+      "url": "https://github.com/nextcloud/recognize",
+      "description": "\ud83d\udc41 \ud83d\udc42 Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres",
+      "language": "PHP",
+      "stars": 699,
+      "topics": [
+        "nextcloud",
+        "photos",
+        "music",
+        "ai",
+        "face-recognition",
+        "object-recognition",
+        "music-genre-classification",
+        "machine-learning",
+        "media-services"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.72,
+      "health": 92,
+      "signals": {
+        "daysSinceLastMerge": 1.7,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 31217,
+      "topics": [
+        "framework",
+        "php",
+        "symfony",
+        "symfony-bundle",
+        "bundle",
+        "php-framework",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 92,
+      "signals": {
+        "daysSinceLastMerge": 0.6,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 27,
+        "helpWantedIssues": 29,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "PennyLaneAI/catalyst",
+      "url": "https://github.com/PennyLaneAI/catalyst",
+      "description": "A JIT compiler for hybrid quantum programs in PennyLane",
+      "language": "Python",
+      "stars": 241,
+      "topics": [
+        "jit",
+        "mlir",
+        "qir",
+        "quantum-compiler",
+        "autodiff",
+        "automatic-differentiation",
+        "jax",
+        "llvm",
+        "python",
+        "quantum"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.65,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.67,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "Azure/azure-cli",
+      "url": "https://github.com/Azure/azure-cli",
+      "description": "Azure Command-Line Interface",
+      "language": "Python",
+      "stars": 4664,
+      "topics": [
+        "azure",
+        "azure-cli",
+        "cloud"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.93,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.6,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "language": "Python",
+      "stars": 47361,
+      "topics": [
+        "airflow",
+        "apache",
+        "apache-airflow",
+        "python",
+        "scheduler",
+        "workflow",
+        "automation",
+        "dag",
+        "data-engineering",
+        "data-integration"
+      ],
+      "interests": [
+        "devtools",
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 0.9,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.57,
+        "goodFirstIssues": 108,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "Yue-plus/hexo-theme-arknights",
+      "url": "https://github.com/Yue-plus/hexo-theme-arknights",
+      "description": "\u660e\u65e5\u65b9\u821f\u7f57\u5fb7\u5c9b\u9635\u8425\u7684 Hexo \u4e3b\u9898\uff0c\u652f\u6301\u6570\u5b66\u516c\u5f0f\u3001Mermaid\u56fe\u8868\u3001\u591a\u79cd\u8bc4\u8bba\u7cfb\u7edf\uff08Valine\u3001Gitalk\u3001Waline\u3001Artalk\u3001Utterances\u3001Giscus\uff09",
+      "language": "JavaScript",
+      "stars": 880,
+      "topics": [
+        "hexo",
+        "hexo-theme",
+        "arknights",
+        "mathjax",
+        "valine",
+        "mermaid",
+        "gitalk",
+        "utterances",
+        "giscus",
+        "artalk"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.43,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "OneUptime/oneuptime",
+      "url": "https://github.com/OneUptime/oneuptime",
+      "description": "Complete open-source monitoring and observability platform.",
+      "language": "TypeScript",
+      "stars": 7791,
+      "topics": [
+        "devops",
+        "monitoring",
+        "incident-response",
+        "incident-management",
+        "status-page",
+        "observability",
+        "on-call"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.95,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "enricoros/big-AGI",
+      "url": "https://github.com/enricoros/big-AGI",
+      "description": "AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.",
+      "language": "TypeScript",
+      "stars": 7167,
+      "topics": [
+        "agi",
+        "gpt",
+        "ai-agents",
+        "ai-suite",
+        "ai-workspace",
+        "anthropic-api",
+        "deepseek-api",
+        "gemini-api",
+        "gpt-5",
+        "multi-modal"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.59,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 1.3,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "stars": 92675,
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "llm",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "openai"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.6,
+        "goodFirstIssues": 21,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "newscred/webhook-broker",
+      "url": "https://github.com/newscred/webhook-broker",
+      "description": "This is a fully HTTP based Pub/Sub Broker with a goal to simplify system architecture in SOA or Microservice architecture. It aims to solve the inter service communication problem.",
+      "language": "Go",
+      "stars": 22,
+      "topics": [
+        "webhook-broker",
+        "webhook",
+        "webhooks"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.31,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 0.57,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 6,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "estuary/connectors",
+      "url": "https://github.com/estuary/connectors",
+      "description": "Connectors for capturing data from external data sources",
+      "language": "Go",
+      "stars": 83,
+      "topics": [],
+      "interests": [
+        "data"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.67,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.3,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "traPtitech/traQ",
+      "url": "https://github.com/traPtitech/traQ",
+      "description": "traQ - traP Internal Messenger Application Backend",
+      "language": "Go",
+      "stars": 477,
+      "topics": [
+        "traq",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.5,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.9,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "storytold/materialcraft",
+      "url": "https://github.com/storytold/materialcraft",
+      "description": "MaterialCraft: An open-source, node-based material designer written from scratch in pure Rust",
+      "language": "Rust",
+      "stars": 182,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.47,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.64,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "eclipse-jdt/eclipse.jdt.core",
+      "url": "https://github.com/eclipse-jdt/eclipse.jdt.core",
+      "description": null,
+      "language": "Java",
+      "stars": 243,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.76,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 18,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "apache/fluss",
+      "url": "https://github.com/apache/fluss",
+      "description": "Apache Fluss is a streaming storage built for real-time analytics.",
+      "language": "Java",
+      "stars": 2239,
+      "topics": [
+        "streaming",
+        "fluss",
+        "lakehouse",
+        "real-time-analytics",
+        "big-data",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "infrastructure",
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 0.73,
+        "goodFirstIssues": 21,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+      "language": "Java",
+      "stars": 30149,
+      "topics": [
+        "orchestration",
+        "data-orchestration",
+        "high-availability",
+        "infrastructure-as-code",
+        "automation",
+        "devops",
+        "java",
+        "low-code",
+        "pipeline",
+        "pipeline-as-code"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools",
+        "infrastructure",
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.6,
+        "goodFirstIssues": 97,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "MaSzyna-EU07/maszyna",
+      "url": "https://github.com/MaSzyna-EU07/maszyna",
+      "description": "MaSzyna Rail Vehicle Simulator main executable source code",
+      "language": "C++",
+      "stars": 68,
+      "topics": [
+        "3d",
+        "game",
+        "simulator"
+      ],
+      "interests": [
+        "games"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.68,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.6,
+        "externalMergeShare": 0.73,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "eyalgolan/statecraft-israel",
+      "url": "https://github.com/eyalgolan/statecraft-israel",
+      "description": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.",
+      "language": "C#",
+      "stars": 676,
+      "topics": [
+        "indie-game",
+        "indiegame",
+        "israel",
+        "israeli",
+        "zion",
+        "zionism",
+        "jewish",
+        "jewish-history",
+        "strategy-game",
+        "civilization"
+      ],
+      "interests": [
+        "games"
+      ],
+      "tier": "expert",
+      "complexity": 0.92,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.3,
+        "goodFirstIssues": 21,
+        "helpWantedIssues": 132,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "bdunderscore/modular-avatar",
+      "url": "https://github.com/bdunderscore/modular-avatar",
+      "description": null,
+      "language": "C#",
+      "stars": 822,
+      "topics": [
+        "csharp",
+        "unity-editor",
+        "vrchat",
+        "vrchat-avatar"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.59,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.5,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+      "language": "C#",
+      "stars": 23325,
+      "topics": [
+        "dotnet",
+        "maui",
+        "multi-platform",
+        "user-interface",
+        "microsoft",
+        "hacktoberfest",
+        "android",
+        "desktop",
+        "ios",
+        "maccatalyst"
+      ],
+      "interests": [
+        "devtools",
+        "mobile"
+      ],
+      "tier": "expert",
+      "complexity": 0.96,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "denny/ShinyCMS-ruby",
+      "url": "https://github.com/denny/ShinyCMS-ruby",
+      "description": "ShinyCMS is an open-source CMS built in Ruby on Rails, with support for themes, plugins, and cloud hosting. (There is also a Perl version: www.github.com/denny/ShinyCMS)",
+      "language": "Ruby",
+      "stars": 37,
+      "topics": [
+        "ruby-on-rails",
+        "cms",
+        "open-source",
+        "heroku",
+        "rails6",
+        "cloud-hosting",
+        "postgres",
+        "themes",
+        "plugins",
+        "aws"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.5,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.6,
+        "medianDaysToMerge": 0.6,
+        "externalMergeShare": 0.8,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 10,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "manyfold3d/manyfold",
+      "url": "https://github.com/manyfold3d/manyfold",
+      "description": "A self-hosted digital asset manager for 3d print files.",
+      "language": "Ruby",
+      "stars": 2226,
+      "topics": [
+        "dam",
+        "stl-files",
+        "stl",
+        "obj-files",
+        "3d-printing",
+        "self-hosted",
+        "three-js",
+        "digital-asset-management",
+        "rails",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.65,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.5,
+        "goodFirstIssues": 65,
+        "helpWantedIssues": 3,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "THM-Health/PILOS",
+      "url": "https://github.com/THM-Health/PILOS",
+      "description": "PILOS is an easy-to-use open source front-end for BigBlueButton servers with a built-in load balancer. Docker-Images: https://hub.docker.com/r/pilos/pilos",
+      "language": "PHP",
+      "stars": 69,
+      "topics": [
+        "bigbluebutton"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 3,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "nextcloud/groupfolders",
+      "url": "https://github.com/nextcloud/groupfolders",
+      "description": "\ud83d\udcc1\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders",
+      "language": "PHP",
+      "stars": 352,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.55,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.7,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "PrivateBin/PrivateBin",
+      "url": "https://github.com/PrivateBin/PrivateBin",
+      "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+      "language": "PHP",
+      "stars": 8732,
+      "topics": [
+        "self-hosted",
+        "self-hosting",
+        "pastebin",
+        "security",
+        "one-time",
+        "self-destroy",
+        "encrypted",
+        "php",
+        "paste",
+        "crypto"
+      ],
+      "interests": [
+        "web",
+        "infrastructure",
+        "security",
+        "data"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 1.0,
+        "externalMergeShare": 0.87,
+        "goodFirstIssues": 10,
+        "helpWantedIssues": 21,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 37421,
+      "topics": [
+        "open-source",
+        "file-sharing",
+        "enterprise",
+        "sharing",
+        "collaboration",
+        "cloud",
+        "nextcloud",
+        "self-hosting",
+        "decentralized",
+        "federation"
+      ],
+      "interests": [
+        "infrastructure",
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 1.0,
+      "health": 90,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.93,
+        "goodFirstIssues": 66,
+        "helpWantedIssues": 15,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "google/closure-compiler",
+      "url": "https://github.com/google/closure-compiler",
+      "description": "A JavaScript checker and optimizer.",
+      "language": "JavaScript",
+      "stars": 7703,
+      "topics": [
+        "closure-compiler",
+        "javascript",
+        "optimization",
+        "typechecking"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.76,
+      "health": 89,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 2.9,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 30,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "kroxylicious/kroxylicious",
+      "url": "https://github.com/kroxylicious/kroxylicious",
+      "description": "Kroxylicious, the snappy open source proxy for Apache Kafka\u00ae",
+      "language": "Java",
+      "stars": 333,
+      "topics": [
+        "apache-kafka",
+        "java",
+        "kafka",
+        "proxy"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.68,
+      "health": 89,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 2.2,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 47,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "LMMS/lmms",
+      "url": "https://github.com/LMMS/lmms",
+      "description": "Cross-platform music production software",
+      "language": "C++",
+      "stars": 10598,
+      "topics": [
+        "midi",
+        "songs",
+        "daw",
+        "music",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.76,
+      "health": 89,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 2.1,
+        "externalMergeShare": 0.5,
+        "goodFirstIssues": 21,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "shuxiachai/academic-commercialization-agent",
+      "url": "https://github.com/shuxiachai/academic-commercialization-agent",
+      "description": "AI multi-agent tool that turns research papers into cited commercialization and tech-transfer assessments: TRL, patent landscape, market and risks. CrewAI + FastAPI, with a reproducible benchmark.",
+      "language": "Python",
+      "stars": 807,
+      "topics": [
+        "academic-research",
+        "ai-agent",
+        "commercialization",
+        "crewai",
+        "llm",
+        "multi-agent",
+        "patent-analysis",
+        "python",
+        "technology-transfer",
+        "checkpointing"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools",
+        "science"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.27,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "usebruno/bruno",
+      "url": "https://github.com/usebruno/bruno",
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "language": "JavaScript",
+      "stars": 48164,
+      "topics": [
+        "api-client",
+        "git",
+        "graphql-client",
+        "opensource",
+        "automation",
+        "javascript",
+        "testing",
+        "api-testing",
+        "developer-tools",
+        "http-client"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.73,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.4,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.47,
+        "goodFirstIssues": 14,
+        "helpWantedIssues": 12,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "ohbus/twitter-backend-java",
+      "url": "https://github.com/ohbus/twitter-backend-java",
+      "description": "Twitter Clone Backend: Moo - A Social Networking Application",
+      "language": "Java",
+      "stars": 71,
+      "topics": [
+        "spring-boot",
+        "backend",
+        "java",
+        "spring-data-jpa",
+        "database",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web",
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.16,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.26,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dbeaver/dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "stars": 52301,
+      "topics": [
+        "sql",
+        "database",
+        "dbeaver",
+        "gui",
+        "mysql",
+        "postgresql",
+        "db2",
+        "sqlite",
+        "erd",
+        "java"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.85,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.4,
+        "medianDaysToMerge": 0.6,
+        "externalMergeShare": 0.47,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 11,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "funky-station/funky-station",
+      "url": "https://github.com/funky-station/funky-station",
+      "description": null,
+      "language": "C#",
+      "stars": 89,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.91,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 3.2,
+        "externalMergeShare": 0.7,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "C7-Game/OpenCiv3",
+      "url": "https://github.com/C7-Game/OpenCiv3",
+      "description": "OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.",
+      "language": "C#",
+      "stars": 686,
+      "topics": [
+        "game",
+        "4x-strategy-game",
+        "strategy-game",
+        "civilization",
+        "cross-platform",
+        "csharp-game",
+        "godot-game",
+        "remake-game"
+      ],
+      "interests": [
+        "games"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.59,
+      "health": 88,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 4.1,
+        "externalMergeShare": 0.9,
+        "goodFirstIssues": 13,
+        "helpWantedIssues": 3,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "ProjectEvergreen/greenwood",
+      "url": "https://github.com/ProjectEvergreen/greenwood",
+      "description": "Greenwood is your workbench for the web, embracing web standards from the ground up to empower your stack from front to back.",
+      "language": "JavaScript",
+      "stars": 132,
+      "topics": [
+        "webcomponents",
+        "nodejs",
+        "javascript",
+        "css",
+        "html",
+        "ssg",
+        "ssr",
+        "lit",
+        "typescript"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.5,
+      "health": 87,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 7.0,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 59016,
+      "topics": [
+        "jellyfin",
+        "csharp",
+        "dotnet",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.59,
+      "health": 87,
+      "signals": {
+        "daysSinceLastMerge": 7.5,
+        "medianDaysToMerge": 2.5,
+        "externalMergeShare": 0.77,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "internetarchive/openlibrary",
+      "url": "https://github.com/internetarchive/openlibrary",
+      "description": "One webpage for every book ever published!",
+      "language": "Python",
+      "stars": 6807,
+      "topics": [
+        "internet-archive",
+        "open-source",
+        "books",
+        "library-catalogue",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "language": "JavaScript",
+      "stars": 143326,
+      "topics": [
+        "react",
+        "server-rendering",
+        "universal",
+        "node",
+        "components",
+        "browser",
+        "nextjs",
+        "vercel",
+        "static-site-generator",
+        "hybrid"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "expert",
+      "complexity": 0.97,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.43,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "stars": 93270,
+      "topics": [
+        "uptime",
+        "monitoring",
+        "docker",
+        "selfhosted",
+        "self-hosted",
+        "single-page-app",
+        "webapp",
+        "responsive",
+        "websocket",
+        "socket-io"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.72,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 1.8,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 24,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 194641,
+      "topics": [
+        "editor",
+        "electron",
+        "visual-studio-code",
+        "typescript",
+        "microsoft"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "expert",
+      "complexity": 0.96,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 18,
+        "helpWantedIssues": 461,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "fjordllc/bootcamp",
+      "url": "https://github.com/fjordllc/bootcamp",
+      "description": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u5411\u3051E\u30e9\u30fc\u30cb\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0",
+      "language": "Ruby",
+      "stars": 298,
+      "topics": [
+        "ruby",
+        "rails",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.74,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.43,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "rubocop/rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "stars": 12917,
+      "topics": [
+        "ruby",
+        "rubocop",
+        "linter",
+        "static-code-analysis",
+        "code-formatter",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.54,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 3,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "lobsters/lobsters",
+      "url": "https://github.com/lobsters/lobsters",
+      "description": "Computing-focused community centered around link aggregation and discussion",
+      "language": "Ruby",
+      "stars": 4859,
+      "topics": [
+        "ruby",
+        "rails",
+        "aggregator",
+        "forum",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 2.4,
+        "medianDaysToMerge": 21.8,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 115,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "contao/contao",
+      "url": "https://github.com/contao/contao",
+      "description": "Contao Open Source CMS",
+      "language": "PHP",
+      "stars": 450,
+      "topics": [
+        "php",
+        "cms",
+        "symfony",
+        "contao",
+        "monorepo"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.64,
+      "health": 86,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 13,
+        "helpWantedIssues": 104,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "nextcloud/talk-desktop",
+      "url": "https://github.com/nextcloud/talk-desktop",
+      "description": "Nextcloud Talk Desktop client",
+      "language": "JavaScript",
+      "stars": 529,
+      "topics": [
+        "desktop",
+        "javascript",
+        "nextcloud",
+        "nextcloud-talk",
+        "vue",
+        "electron"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "beginner",
+      "complexity": 0.59,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 2.7,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 2,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "jannskiee/floe",
+      "url": "https://github.com/jannskiee/floe",
+      "description": "Encrypted P2P file transfer in the browser, on the desktop, and in the CLI. No accounts, no uploads, no file storage.",
+      "language": "TypeScript",
+      "stars": 212,
+      "topics": [
+        "file-sharing",
+        "file-transfer",
+        "nextjs",
+        "open-source",
+        "peer-to-peer",
+        "socket-io",
+        "typescript",
+        "webrtc",
+        "privacy",
+        "react"
+      ],
+      "interests": [
+        "web",
+        "devtools",
+        "infrastructure",
+        "security"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.61,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.2,
+        "goodFirstIssues": 10,
+        "helpWantedIssues": 10,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "TeamNewPipe/NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
+      "language": "Java",
+      "stars": 40431,
+      "topics": [
+        "youtube-video",
+        "video",
+        "newpipe",
+        "watch",
+        "translation",
+        "download-videos",
+        "android",
+        "soundcloud",
+        "peertube",
+        "bandcamp"
+      ],
+      "interests": [
+        "mobile"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.61,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 1.5,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 48,
+        "helpWantedIssues": 42,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
+      "language": "C++",
+      "stars": 45570,
+      "topics": [
+        "firefox",
+        "firefox-based",
+        "firefox-browser",
+        "zen-browser"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.97,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "files-community/Files",
+      "url": "https://github.com/files-community/Files",
+      "description": "A modern file manager that helps users organize their files and folders.",
+      "language": "C#",
+      "stars": 46499,
+      "topics": [
+        "fluent-design",
+        "xaml",
+        "file-manager",
+        "winui",
+        "files",
+        "windows",
+        "csharp",
+        "windows-10",
+        "windows-11",
+        "fluent"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.6,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 0.5,
+        "goodFirstIssues": 2,
+        "helpWantedIssues": 12,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "decidim/decidim",
+      "url": "https://github.com/decidim/decidim",
+      "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+      "language": "Ruby",
+      "stars": 1846,
+      "topics": [
+        "decidim",
+        "democracy",
+        "community",
+        "government",
+        "civic-tech",
+        "civictech",
+        "ideation",
+        "collective-intelligence",
+        "participation",
+        "citizen-participation"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.74,
+      "health": 85,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.4,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "stars": 105148,
+      "topics": [
+        "neural-network",
+        "autograd",
+        "gpu",
+        "numpy",
+        "deep-learning",
+        "tensor",
+        "python",
+        "machine-learning"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "expert",
+      "complexity": 0.96,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 5.2,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.2,
+        "goodFirstIssues": 41,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "dynamoose/dynamoose",
+      "url": "https://github.com/dynamoose/dynamoose",
+      "description": "Dynamoose is a modeling tool for Amazon's DynamoDB",
+      "language": "JavaScript",
+      "stars": 2250,
+      "topics": [
+        "amazon-dynamodb",
+        "javascript",
+        "dynamoose",
+        "dynamodb",
+        "nodejs"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.4,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.17,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 9,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 115638,
+      "topics": [
+        "claude-code",
+        "codex",
+        "ghostty",
+        "terminal",
+        "opencode",
+        "orchestration",
+        "worktrees",
+        "pi",
+        "ade",
+        "mobile-app"
+      ],
+      "interests": [
+        "machine-learning",
+        "mobile"
+      ],
+      "tier": "expert",
+      "complexity": 0.98,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.37,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 9,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "tramhao/termusic",
+      "url": "https://github.com/tramhao/termusic",
+      "description": "Music Player TUI written in Rust",
+      "language": "Rust",
+      "stars": 2246,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.42,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 2.4,
+        "externalMergeShare": 0.2,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 5,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "oxc-project/oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "\u2693 A collection of high-performance JavaScript tools.",
+      "language": "Rust",
+      "stars": 23322,
+      "topics": [
+        "compiler",
+        "javascript",
+        "linter",
+        "minifier",
+        "parser",
+        "typescript",
+        "transpiler"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.17,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "ydb-platform/ydb",
+      "url": "https://github.com/ydb-platform/ydb",
+      "description": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+      "language": "C++",
+      "stars": 4785,
+      "topics": [
+        "database",
+        "distributed",
+        "sql",
+        "dbms",
+        "cloud-native",
+        "cpp",
+        "distributed-database",
+        "distributed-sql",
+        "distributed-sql-database"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.99,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.17,
+        "goodFirstIssues": 20,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "yksr-melt/Meltype",
+      "url": "https://github.com/yksr-melt/Meltype",
+      "description": "\u96ea\u89e3\u3051\u306e\u3088\u3046\u306b\u3001\u534a\u89d2/\u5168\u89d2\u306e\u58c1\u3092\u6eb6\u304b\u3059\u65e5\u672c\u8a9e\u5165\u529b\u3002",
+      "language": "C#",
+      "stars": 1502,
+      "topics": [
+        "japanese",
+        "windows"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.63,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.17,
+        "goodFirstIssues": 18,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+      "language": "Ruby",
+      "stars": 38895,
+      "topics": [
+        "vuejs",
+        "intercom",
+        "zendesk",
+        "rails",
+        "design",
+        "sass",
+        "actioncable",
+        "opensource",
+        "livechat",
+        "javascript"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.84,
+      "health": 84,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.17,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 79030,
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "advanced",
+      "complexity": 0.77,
+      "health": 82,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 13,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "maximhq/bifrost",
+      "url": "https://github.com/maximhq/bifrost",
+      "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200\u00b5s of overhead at 5k RPS.",
+      "language": "Go",
+      "stars": 9375,
+      "topics": [
+        "gateway",
+        "llm-gateway",
+        "guardrails",
+        "mcp-gateway",
+        "ai-gateway",
+        "llm-cost",
+        "llm-observability",
+        "load-balancing",
+        "model-router",
+        "agent-gateway"
+      ],
+      "interests": [
+        "web",
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "expert",
+      "complexity": 0.91,
+      "health": 82,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 14,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "vectordotdev/vector",
+      "url": "https://github.com/vectordotdev/vector",
+      "description": "A high-performance observability data pipeline.",
+      "language": "Rust",
+      "stars": 22800,
+      "topics": [
+        "logs",
+        "metrics",
+        "observability",
+        "forwarder",
+        "events",
+        "stream-processing",
+        "hacktoberfest",
+        "rust-lang",
+        "traces",
+        "pipelines"
+      ],
+      "interests": [
+        "infrastructure",
+        "data"
+      ],
+      "tier": "advanced",
+      "complexity": 0.81,
+      "health": 82,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 24,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "WikiEducationFoundation/WikiEduDashboard",
+      "url": "https://github.com/WikiEducationFoundation/WikiEduDashboard",
+      "description": "Wiki Education Foundation's Wikipedia course dashboard system",
+      "language": "Ruby",
+      "stars": 430,
+      "topics": [],
+      "interests": [
+        "data",
+        "education"
+      ],
+      "tier": "advanced",
+      "complexity": 0.79,
+      "health": 82,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 29,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "wp-graphql/wp-graphql",
+      "url": "https://github.com/wp-graphql/wp-graphql",
+      "description": ":rocket: GraphQL API for WordPress",
+      "language": "PHP",
+      "stars": 3794,
+      "topics": [
+        "graphql",
+        "wordpress",
+        "wp-plugin",
+        "graphql-server",
+        "wordpress-plugin",
+        "api",
+        "wpgraphql",
+        "graphql-api",
+        "graphql-php-library",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.7,
+      "health": 82,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "Giant-Bomb-Dot-Com/giant-bomb-wiki",
+      "url": "https://github.com/Giant-Bomb-Dot-Com/giant-bomb-wiki",
+      "description": null,
+      "language": "PHP",
+      "stars": 94,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.75,
+      "health": 81,
+      "signals": {
+        "daysSinceLastMerge": 5.1,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.33,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "koda-ai-studio/agent-bom",
+      "url": "https://github.com/koda-ai-studio/agent-bom",
+      "description": "AI supply-chain BOM: every agent, MCP server and AI package, and what each one can reach. Open-source scanner and self-hosted control plane for code, containers, cloud and AI. Self-host free; local scans need no account.",
+      "language": "Python",
+      "stars": 36,
+      "topics": [
+        "ai-security",
+        "mcp",
+        "sbom",
+        "vulnerability-scanning",
+        "aibom",
+        "blast-radius",
+        "ai-supply-chain",
+        "cloud-security",
+        "security-scanner",
+        "supply-chain-security"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.84,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.1,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 17,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "paraglider-project/paraglider",
+      "url": "https://github.com/paraglider-project/paraglider",
+      "description": "Streamlining cloud networking ",
+      "language": "Go",
+      "stars": 72,
+      "topics": [],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.42,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 98.1,
+        "externalMergeShare": 0.57,
+        "goodFirstIssues": 17,
+        "helpWantedIssues": 9,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "orka-agents/orka",
+      "url": "https://github.com/orka-agents/orka",
+      "description": "\ud83d\udc0b Cloud and AI-native multi-agent orchestration platform for Kubernetes",
+      "language": "Go",
+      "stars": 41,
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "copilot",
+        "kubernetes",
+        "cloud-native",
+        "agent"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.73,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 1.4,
+        "externalMergeShare": 0.1,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "bazelbuild/bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "stars": 26047,
+      "topics": [
+        "bazel",
+        "build",
+        "test",
+        "fast",
+        "correct",
+        "scalable",
+        "multi-language",
+        "build-system"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.92,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 0.1,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 258,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "aui-framework/aui",
+      "url": "https://github.com/aui-framework/aui",
+      "description": "Declarative UI toolkit for modern C++20",
+      "language": "C++",
+      "stars": 608,
+      "topics": [
+        "c-plus-plus",
+        "c-plus-plus-20",
+        "cmake",
+        "cross-platform-gui",
+        "desktop",
+        "framework",
+        "gui-framework",
+        "gui-toolkit",
+        "opengl",
+        "toolkit"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.5,
+        "externalMergeShare": 0.1,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "zerocracy/judges-action",
+      "url": "https://github.com/zerocracy/judges-action",
+      "description": "A GitHub Action that scans the entire repository and generates a Factbase for Zerocracy",
+      "language": "Ruby",
+      "stars": 32,
+      "topics": [
+        "github-actions",
+        "zerocracy",
+        "ruby"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "advanced",
+      "complexity": 0.75,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 1.4,
+        "externalMergeShare": 0.97,
+        "goodFirstIssues": 1,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "nebojsatomic/IDE21",
+      "url": "https://github.com/nebojsatomic/IDE21",
+      "description": "More than just a Content Management System. It helps you design your website from the administration panel.  You can, with a few clicks, completely design your website directly in the CMS, AND/OR use  DaisyUI components and TailwindCSS classes  for the same purpose and greater control ( also inside CMS admin panel ).",
+      "language": "PHP",
+      "stars": 22,
+      "topics": [
+        "zend",
+        "laravel",
+        "cms-ide",
+        "cms",
+        "frontend",
+        "ide",
+        "docker",
+        "php",
+        "content-management-system",
+        "zend-framework"
+      ],
+      "interests": [
+        "web",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.61,
+      "health": 80,
+      "signals": {
+        "daysSinceLastMerge": 0.4,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.1,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "skypilot-org/skypilot",
+      "url": "https://github.com/skypilot-org/skypilot",
+      "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+      "language": "Python",
+      "stars": 10794,
+      "topics": [
+        "cloud-computing",
+        "deep-learning",
+        "gpu",
+        "hyperparameter-tuning",
+        "machine-learning",
+        "tpu",
+        "job-queue",
+        "job-scheduler",
+        "cloud-management",
+        "distributed-training"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.8,
+      "health": 78,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.7,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "OpenLiberty/open-liberty",
+      "url": "https://github.com/OpenLiberty/open-liberty",
+      "description": "Open Liberty is a highly composable, fast to start, dynamic application server runtime environment ",
+      "language": "Java",
+      "stars": 1271,
+      "topics": [],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.93,
+      "health": 78,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.9,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "woocommerce/woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "language": "PHP",
+      "stars": 10583,
+      "topics": [
+        "woocommerce",
+        "wordpress",
+        "php",
+        "automattic",
+        "ecommerce",
+        "ecommerce-platform",
+        "hacktoberfest",
+        "reactjs"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.92,
+      "health": 78,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 10,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "gemini-testing/testplane",
+      "url": "https://github.com/gemini-testing/testplane",
+      "description": "Testplane (ex-hermione) browser test runner based on mocha and wdio",
+      "language": "TypeScript",
+      "stars": 833,
+      "topics": [
+        "testing-tools",
+        "integration-testing",
+        "e2e-testing",
+        "testing",
+        "testplane",
+        "automation",
+        "chrome",
+        "chromium",
+        "end-to-end-testing",
+        "firefox"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.44,
+      "health": 77,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 2.7,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "getsolus/packages",
+      "url": "https://github.com/getsolus/packages",
+      "description": "Solus Package Monorepo & Issue Tracker",
+      "language": "Python",
+      "stars": 141,
+      "topics": [
+        "solus"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.89,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 4,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "NVIDIA/numbast",
+      "url": "https://github.com/NVIDIA/numbast",
+      "description": "Numbast is a tool to build an automated pipeline that converts CUDA APIs into Numba bindings.",
+      "language": "Python",
+      "stars": 63,
+      "topics": [
+        "cuda",
+        "numba"
+      ],
+      "interests": [
+        "devtools"
+      ],
+      "tier": "beginner",
+      "complexity": 0.56,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "WeWorker/WeWorker",
+      "url": "https://github.com/WeWorker/WeWorker",
+      "description": "Open-source desktop AI agent that takes real actions on websites \u2014 33 adapters for mail, shopping, social, and more.",
+      "language": "JavaScript",
+      "stars": 159,
+      "topics": [
+        "adapter",
+        "browser-automation",
+        "browsercli",
+        "chrome-extension",
+        "desktop-agent",
+        "electron",
+        "llm",
+        "local-first",
+        "open-source",
+        "web-automation"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "beginner",
+      "complexity": 0.54,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 6,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "richshaw/OpenSignup",
+      "url": "https://github.com/richshaw/OpenSignup",
+      "description": "Create signup sheets, for schools, sports teams, volunteering ",
+      "language": "TypeScript",
+      "stars": 23,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.47,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "apecloud/kubeblocks",
+      "url": "https://github.com/apecloud/kubeblocks",
+      "description": "KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.",
+      "language": "Go",
+      "stars": 3163,
+      "topics": [
+        "mysql-operator",
+        "mongodb-operator",
+        "postgresql-operator",
+        "rabbitmq-operator",
+        "redis-operator",
+        "databases",
+        "helm",
+        "k8s",
+        "kubernetes",
+        "operator"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.62,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 13,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "cube-js/cube",
+      "url": "https://github.com/cube-js/cube",
+      "description": "\ud83d\udcca Cube Core is open-source semantic layer for AI, BI and embedded analytics",
+      "language": "Rust",
+      "stars": 21169,
+      "topics": [
+        "analytics",
+        "cube",
+        "postgresql",
+        "mysql",
+        "bigquery",
+        "sql",
+        "rust",
+        "headless-bi",
+        "semantic-layer",
+        "databricks"
+      ],
+      "interests": [
+        "machine-learning",
+        "data"
+      ],
+      "tier": "expert",
+      "complexity": 0.87,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 175,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "keepassxreboot/keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.",
+      "language": "C++",
+      "stars": 29775,
+      "topics": [
+        "keepassxc",
+        "keepass",
+        "password-manager",
+        "linux",
+        "windows",
+        "cross-platform",
+        "yubikey",
+        "macos",
+        "password",
+        "security"
+      ],
+      "interests": [
+        "security"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.8,
+        "externalMergeShare": 0.23,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 16,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "marceld23/BlocksBeyondTheStars",
+      "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+      "description": "A block-based 3D space crafting game: explore procedurally generated planets across many star systems, mine and craft, tame creatures, build ships, bases and your own space stations \u2014 solo or with friends. Open-source .NET server + Unity client, self-hostable.",
+      "language": "C#",
+      "stars": 40,
+      "topics": [
+        "crafting",
+        "csharp",
+        "dotnet",
+        "game",
+        "gamedev",
+        "indie-game",
+        "multiplayer",
+        "open-source",
+        "procedural-generation",
+        "sandbox"
+      ],
+      "interests": [
+        "infrastructure",
+        "games"
+      ],
+      "tier": "advanced",
+      "complexity": 0.78,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 7,
+        "helpWantedIssues": 21,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "betagouv/rdv-service-public",
+      "url": "https://github.com/betagouv/rdv-service-public",
+      "description": "Prise de RDV pour les services publics",
+      "language": "Ruby",
+      "stars": 29,
+      "topics": [
+        "rdv-solidarites",
+        "rdv",
+        "agenda",
+        "cnfs"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.69,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.5,
+        "medianDaysToMerge": 0.6,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 16,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "FrankProjects/UltimateWarfare",
+      "url": "https://github.com/FrankProjects/UltimateWarfare",
+      "description": "Ultimate Warfare is an online multiplayer browser based strategy game written in PHP 8.5 and Symfony 8",
+      "language": "PHP",
+      "stars": 42,
+      "topics": [
+        "php",
+        "symfony",
+        "game",
+        "strategy-game",
+        "multiplayer",
+        "role-playing",
+        "wargame",
+        "browser-game",
+        "worldmap",
+        "text-based"
+      ],
+      "interests": [
+        "web",
+        "games"
+      ],
+      "tier": "beginner",
+      "complexity": 0.42,
+      "health": 76,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "graycoreio/daffodil",
+      "url": "https://github.com/graycoreio/daffodil",
+      "description": "Build complex Ecommerce store frontends and connect to any backend https://discord.gg/BdaJVZ53sR",
+      "language": "TypeScript",
+      "stars": 465,
+      "topics": [
+        "angular",
+        "pwa",
+        "magento",
+        "ecommerce",
+        "typescript",
+        "ecommerce-platform",
+        "daffodil",
+        "hacktoberfest",
+        "hacktoberfest2025"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.67,
+      "health": 75,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 9,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "JSPrismarine/JSPrismarine",
+      "url": "https://github.com/JSPrismarine/JSPrismarine",
+      "description": "Dedicated Minecraft Bedrock Edition server written in TypeScript.",
+      "language": "TypeScript",
+      "stars": 319,
+      "topics": [
+        "javascript",
+        "mcbe",
+        "minecraft",
+        "minecraft-bedrock",
+        "server",
+        "node",
+        "minecraft-bedrock-edition",
+        "npm",
+        "typescript",
+        "mcpe"
+      ],
+      "interests": [
+        "infrastructure",
+        "games"
+      ],
+      "tier": "advanced",
+      "complexity": 0.82,
+      "health": 75,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.3,
+        "goodFirstIssues": 0,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "midagedev/bloomery",
+      "url": "https://github.com/midagedev/bloomery",
+      "description": "Hybrid GPU + CPU inference for mixture-of-experts models, written in Rust down to the CUDA kernels. A drop-in llama-server.",
+      "language": "Rust",
+      "stars": 60,
+      "topics": [
+        "cuda",
+        "deepseek",
+        "gguf",
+        "glm",
+        "inference",
+        "llama-cpp",
+        "llm",
+        "moe",
+        "qwen",
+        "rust"
+      ],
+      "interests": [
+        "machine-learning",
+        "infrastructure"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.69,
+      "health": 75,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 6,
+        "helpWantedIssues": 16,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "carlos-emr/carlos",
+      "url": "https://github.com/carlos-emr/carlos",
+      "description": "Open-source Electronic Medical Records (EMR) for Canadian healthcare \u2014 HL7, FHIR, Java 21, Spring 5. Contributors welcome!",
+      "language": "Java",
+      "stars": 36,
+      "topics": [
+        "devcontainer",
+        "digital-health",
+        "electronic-medical-records",
+        "emr",
+        "fhir",
+        "good-first-issue",
+        "healthcare",
+        "hibernate",
+        "hl7",
+        "java"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "expert",
+      "complexity": 0.89,
+      "health": 75,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 64,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "monicahq/monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "stars": 25708,
+      "topics": [
+        "laravel",
+        "crm",
+        "friends",
+        "family",
+        "social",
+        "prm",
+        "php",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 74,
+      "signals": {
+        "daysSinceLastMerge": 7.2,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.2,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 20,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "language": "Python",
+      "stars": 38477,
+      "topics": [
+        "cuda",
+        "inference",
+        "llama",
+        "llm",
+        "moe",
+        "transformer",
+        "vlm",
+        "deepseek",
+        "blackwell",
+        "gpt-oss"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools"
+      ],
+      "tier": "expert",
+      "complexity": 0.87,
+      "health": 72,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 46,
+        "helpWantedIssues": 14,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "microsoft/aspire",
+      "url": "https://github.com/microsoft/aspire",
+      "description": "Aspire is the tool for code-first, extensible, observable dev and deploy.",
+      "language": "C#",
+      "stars": 6398,
+      "topics": [
+        "cloud",
+        "hacktoberfest",
+        "python",
+        "typescript",
+        "aspire",
+        "csharp",
+        "golang",
+        "java",
+        "javascript",
+        "nodejs"
+      ],
+      "interests": [
+        "devtools",
+        "infrastructure"
+      ],
+      "tier": "advanced",
+      "complexity": 0.84,
+      "health": 72,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.3,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 3,
+        "helpWantedIssues": 2,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "e621ng/e621ng",
+      "url": "https://github.com/e621ng/e621ng",
+      "description": null,
+      "language": "Ruby",
+      "stars": 587,
+      "topics": [
+        "e621",
+        "rails",
+        "ruby"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 72,
+      "signals": {
+        "daysSinceLastMerge": 0.3,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.13,
+        "goodFirstIssues": 18,
+        "helpWantedIssues": 21,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "PDFMathTranslate/PDFMathTranslate",
+      "url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+      "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/MCP/Docker/Zotero",
+      "language": "Python",
+      "stars": 38206,
+      "topics": [
+        "chinese",
+        "latex",
+        "pdf",
+        "translation",
+        "korean",
+        "english",
+        "japanese",
+        "openai",
+        "pdf2zh",
+        "russian"
+      ],
+      "interests": [
+        "machine-learning",
+        "devtools",
+        "infrastructure",
+        "science"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.63,
+      "health": 71,
+      "signals": {
+        "daysSinceLastMerge": 57.8,
+        "medianDaysToMerge": 1.1,
+        "externalMergeShare": 0.73,
+        "goodFirstIssues": 8,
+        "helpWantedIssues": 14,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "meta/pyrefly",
+      "url": "https://github.com/meta/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "stars": 7184,
+      "topics": [
+        "code-quality",
+        "ide",
+        "language-server",
+        "lsp",
+        "python",
+        "type-check",
+        "type-checker",
+        "typecheck",
+        "typechecker",
+        "rust"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "expert",
+      "complexity": 0.95,
+      "health": 70,
+      "signals": {
+        "daysSinceLastMerge": 104.4,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.92,
+        "goodFirstIssues": 13,
+        "helpWantedIssues": 23,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "facebookincubator/axiom",
+      "url": "https://github.com/facebookincubator/axiom",
+      "description": "Axiom is a set of reusable and extensible components designed to be compatible with Velox. Its primary purpose is to simplify the process of building front-ends for query execution powered by Velox.",
+      "language": "C++",
+      "stars": 87,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.53,
+      "health": 70,
+      "signals": {
+        "daysSinceLastMerge": 470.4,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 1.0,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": true
+      }
+    },
+    {
+      "name": "aunetx/blur-my-shell",
+      "url": "https://github.com/aunetx/blur-my-shell",
+      "description": "Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview",
+      "language": "JavaScript",
+      "stars": 2394,
+      "topics": [
+        "gnome",
+        "overview-blur",
+        "blur",
+        "customization",
+        "linux",
+        "extension",
+        "gnome-shell-extension",
+        "gnome-extension",
+        "gnome-shell"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.5,
+      "health": 68,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.37,
+        "goodFirstIssues": 0,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "neuron-workspace/Neuron",
+      "url": "https://github.com/neuron-workspace/Neuron",
+      "description": "A local-first Markdown and MDX workspace for writing, linking, and extending your notes.",
+      "language": "TypeScript",
+      "stars": 29,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.46,
+      "health": 68,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.4,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "lightningnetwork/lnd",
+      "url": "https://github.com/lightningnetwork/lnd",
+      "description": "Lightning Network Daemon \u26a1\ufe0f",
+      "language": "Go",
+      "stars": 8210,
+      "topics": [
+        "bitcoin",
+        "lightning-network",
+        "blockchain",
+        "micropayments",
+        "lightning",
+        "protocol",
+        "cryptocurrency",
+        "cryptography",
+        "peer-to-peer",
+        "payments"
+      ],
+      "interests": [
+        "security"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.65,
+      "health": 68,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 17,
+        "helpWantedIssues": 3,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "project-robius/robrix",
+      "url": "https://github.com/project-robius/robrix",
+      "description": "Robrix: a powerful multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and Robius platform abstractions",
+      "language": "Rust",
+      "stars": 510,
+      "topics": [
+        "chat",
+        "makepad",
+        "matrix",
+        "matrix-org",
+        "robius",
+        "rust",
+        "project-robius",
+        "android-app",
+        "ios-app",
+        "macos-app"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.46,
+      "health": 68,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 13,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "stride3d/stride-community-toolkit",
+      "url": "https://github.com/stride3d/stride-community-toolkit",
+      "description": "Collection of helpers and extensions for Stride Game Engine developers. Simplifies and demonstrates common developer tasks building experiences for Stride with .NET.",
+      "language": "C#",
+      "stars": 131,
+      "topics": [
+        "gamedev",
+        "csharp",
+        "game-engine",
+        "stride",
+        "game-developement"
+      ],
+      "interests": [
+        "games"
+      ],
+      "tier": "beginner",
+      "complexity": 0.48,
+      "health": 68,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.07,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 11,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
+      "language": "Rust",
+      "stars": 27841,
+      "topics": [
+        "graphics-editor",
+        "photo-editor",
+        "2d-graphics",
+        "art",
+        "design",
+        "procedural-drawing",
+        "image-processing",
+        "image-manipulation",
+        "node-graph",
+        "svg-editor"
+      ],
+      "interests": [
+        "general"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.71,
+      "health": 66,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.1,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 54,
+        "helpWantedIssues": 8,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "NVIDIA/cuda-quantum",
+      "url": "https://github.com/NVIDIA/cuda-quantum",
+      "description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows",
+      "language": "C++",
+      "stars": 1183,
+      "topics": [
+        "cpp",
+        "python",
+        "quantum",
+        "quantum-algorithms",
+        "quantum-computing",
+        "quantum-machine-learning",
+        "quantum-programming-language",
+        "unitaryhack",
+        "hacktoberfest"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "expert",
+      "complexity": 0.94,
+      "health": 66,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.03,
+        "goodFirstIssues": 12,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "inclusionAI/Avernet",
+      "url": "https://github.com/inclusionAI/Avernet",
+      "description": "Distributed agent coordination platform where agents live, connect, coordinate, execute, and evolve together \u2014 like an organization.",
+      "language": "Python",
+      "stars": 600,
+      "topics": [
+        "agent-coordination",
+        "agent-infrastructure",
+        "agent-organization",
+        "dsh-plugins",
+        "human-in-the-loop-ai",
+        "multi-agent-coordination",
+        "multi-agents"
+      ],
+      "interests": [
+        "machine-learning"
+      ],
+      "tier": "advanced",
+      "complexity": 0.77,
+      "health": 65,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "fizzbee-io/fizzbee",
+      "url": "https://github.com/fizzbee-io/fizzbee",
+      "description": "Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications",
+      "language": "Go",
+      "stars": 369,
+      "topics": [
+        "formal-languages",
+        "formal-methods",
+        "formal-verification",
+        "ltl",
+        "tla",
+        "tla-plus",
+        "tlaplus",
+        "alloy",
+        "alloy-analyzer",
+        "pluscal"
+      ],
+      "interests": [
+        "infrastructure"
+      ],
+      "tier": "beginner",
+      "complexity": 0.51,
+      "health": 65,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.2,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "keploy/keploy",
+      "url": "https://github.com/keploy/keploy",
+      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+      "language": "Go",
+      "stars": 19410,
+      "topics": [
+        "testing",
+        "test-automation",
+        "api-testing",
+        "testing-tools",
+        "test-automation-framework",
+        "test-generation",
+        "testing-library",
+        "mock",
+        "mock-data-generator",
+        "mock-framework"
+      ],
+      "interests": [
+        "web",
+        "devtools"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.65,
+      "health": 65,
+      "signals": {
+        "daysSinceLastMerge": 0.1,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 77,
+        "helpWantedIssues": 21,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "vaadin/hilla",
+      "url": "https://github.com/vaadin/hilla",
+      "description": "Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development.",
+      "language": "Java",
+      "stars": 985,
+      "topics": [
+        "typescript",
+        "java",
+        "reactive",
+        "lit",
+        "lit-element",
+        "stateless",
+        "client-side",
+        "frontend",
+        "vaadin",
+        "react"
+      ],
+      "interests": [
+        "web"
+      ],
+      "tier": "intermediate",
+      "complexity": 0.72,
+      "health": 65,
+      "signals": {
+        "daysSinceLastMerge": 0.0,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 4,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "ParkerBritt/enzo",
+      "url": "https://github.com/ParkerBritt/enzo",
+      "description": "Enzo is a 3D animation software application focused on procedural geometry editing.",
+      "language": "C++",
+      "stars": 31,
+      "topics": [],
+      "interests": [
+        "general"
+      ],
+      "tier": "beginner",
+      "complexity": 0.54,
+      "health": 65,
+      "signals": {
+        "daysSinceLastMerge": 0.2,
+        "medianDaysToMerge": 0.0,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 5,
+        "helpWantedIssues": 0,
+        "hasContributingGuide": false
+      }
+    },
+    {
+      "name": "mafik/gatekeeper",
+      "url": "https://github.com/mafik/gatekeeper",
+      "description": "DHCP & DNS server optimized for home gateways.",
+      "language": "C++",
+      "stars": 91,
+      "topics": [
+        "dashboard",
+        "dhcp",
+        "dhcp-server",
+        "dns",
+        "dns-server",
+        "dnsmasq",
+        "homelab",
+        "router",
+        "firewall",
+        "nat"
+      ],
+      "interests": [
+        "infrastructure",
+        "data"
+      ],
+      "tier": "beginner",
+      "complexity": 0.48,
+      "health": 0,
+      "signals": {
+        "daysSinceLastMerge": null,
+        "medianDaysToMerge": null,
+        "externalMergeShare": 0.0,
+        "goodFirstIssues": 11,
+        "helpWantedIssues": 1,
+        "hasContributingGuide": false
+      }
+    }
+  ]
+}
