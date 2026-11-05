@@ -30,9 +30,11 @@ GITHUB_TOKEN=<your token> python3 pipeline/main.py
 ## Pull requests
 
 1. Keep a PR to one change.
-2. Run `npm run build` in `site/`. It type-checks as well as builds.
-3. Do not edit `data/projects.json` by hand. A weekly job refreshes it.
+2. Run `make lint`, `make test` and `make build` before you push. CI runs the same three.
+3. Do not edit `data/projects.json` by hand. A weekly job refreshes it on the `data` branch.
 4. Write commit messages in the imperative, under 15 words.
+
+`main` is protected. Every change goes through a pull request that needs one approving review and passing checks, and nobody merges their own work without review.
 
 By opening a PR you agree your contribution is released under the MIT license in `LICENSE`. There is no CLA.
 

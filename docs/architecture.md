@@ -28,8 +28,14 @@ Vite, React and TypeScript. The site imports `data/projects.json` at build time,
 
 ## Automation (`.github/workflows/`)
 
-- `refresh-data.yml` runs the pipeline every Monday at 03:00 UTC and commits the data file.
-- `deploy-pages.yml` builds the site and publishes it to GitHub Pages after a push that touches `site/` or `data/`, or after a refresh run. Neither workflow has run yet.
+- `ci.yml` runs on every pull request and push to `main`: lint (ruff and actionlint), pipeline tests, and the site type-check and build. `make lint`, `make test` and `make build` run the same steps locally.
+- `refresh-data.yml` runs the pipeline every Monday at 03:00 UTC and commits the data file to the `data` branch, not `main`, so `main` only changes through reviewed pull requests.
+- `deploy-pages.yml` builds the site from `main`, overlays `data/projects.json` from the `data` branch, and publishes to GitHub Pages. It runs after a push to `main` that touches `site/` or `data/`, and after a successful refresh.
+- Actions are pinned to commit SHAs and each job gets only the permissions it needs. Dependabot proposes updates monthly for actions and weekly for site dependencies.
+
+## Branch protection
+
+`main` requires a pull request, one approving review from a code owner, and passing `Lint`, `Pipeline` and `Site` checks. Force pushes and branch deletion are blocked. The repository admin can bypass these rules.
 
 ## Known limits
 
