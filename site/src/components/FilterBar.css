@@ -1,0 +1,21 @@
+.filter-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: var(--space-3);
+  padding: var(--space-4) 0 var(--space-5);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.filter-bar__search {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 48rem) {
+  .filter-bar {
+    grid-template-columns: 2fr repeat(4, 1fr);
+  }
+
+  .filter-bar__search {
+    grid-column: auto;
+  }
+}

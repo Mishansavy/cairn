@@ -1,0 +1,26 @@
+.site-header {
+  padding-bottom: var(--space-6);
+}
+
+.site-header__title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: var(--font-size-title);
+  font-weight: 500;
+  line-height: 0.9;
+  letter-spacing: -0.035em;
+}
+
+.site-header__tagline {
+  max-width: var(--measure-tagline);
+  margin: var(--space-5) 0 var(--space-4);
+  font-family: var(--font-display);
+  font-size: var(--font-size-tagline);
+  line-height: 1.35;
+}
+
+.site-header__edition {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: var(--font-size-small);
+}

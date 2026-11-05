@@ -1,0 +1,68 @@
+.grade-section {
+  --route-columns: minmax(0, 1fr) 6rem 4.5rem 6rem 5.5rem 4rem 6.5rem;
+  margin-top: var(--space-7);
+}
+
+.grade-section[data-tier="beginner"] { --grade-color: var(--color-grade-1); }
+.grade-section[data-tier="intermediate"] { --grade-color: var(--color-grade-2); }
+.grade-section[data-tier="advanced"] { --grade-color: var(--color-grade-3); }
+.grade-section[data-tier="expert"] { --grade-color: var(--color-grade-4); }
+
+.grade-section__band {
+  display: flex;
+  align-items: flex-end;
+  gap: var(--space-4);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-border-strong);
+}
+
+.grade-section__number {
+  color: var(--grade-color);
+  font-family: var(--font-display);
+  font-size: var(--font-size-grade-numeral);
+  font-weight: 400;
+  line-height: 0.75;
+}
+
+.grade-section__title {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: var(--font-size-grade-title);
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+}
+
+.grade-section__summary {
+  margin: var(--space-1) 0 0;
+  color: var(--color-text-muted);
+}
+
+.grade-section__columns {
+  display: none;
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-size: var(--font-size-small);
+  font-weight: 500;
+}
+
+@media (min-width: 56rem) {
+  .grade-section__columns {
+    display: grid;
+    grid-template-columns: var(--route-columns);
+    column-gap: var(--space-3);
+  }
+}
+
+.grade-section__routes {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.grade-section__empty {
+  margin: 0;
+  padding: var(--space-4) 0;
+  color: var(--color-text-muted);
+}

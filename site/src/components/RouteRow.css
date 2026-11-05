@@ -1,0 +1,107 @@
+.route-row {
+  display: grid;
+  gap: var(--space-3);
+  padding: var(--space-4) 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.route-row__name {
+  margin: 0;
+  font-size: var(--font-size-route);
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  overflow-wrap: anywhere;
+}
+
+.route-row__name a {
+  text-decoration: none;
+}
+
+.route-row__name a:hover {
+  text-decoration: underline;
+}
+
+.route-row__description {
+  display: -webkit-box;
+  margin: var(--space-1) 0 0;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+  color: var(--color-text-muted);
+  font-family: var(--font-display);
+  font-size: var(--font-size-description);
+  line-height: 1.4;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.route-row__note {
+  margin: var(--space-2) 0 0;
+  color: var(--color-text-muted);
+  font-size: var(--font-size-small);
+}
+
+.route-row__facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-3);
+  margin: 0;
+}
+
+.route-row__facts dt {
+  color: var(--color-text-muted);
+  font-size: var(--font-size-small);
+}
+
+.route-row__facts dd {
+  margin: 0;
+  font-size: var(--font-size-ui);
+  font-variant-numeric: tabular-nums;
+}
+
+.route-row__conditions::before {
+  content: "";
+  display: inline-block;
+  width: var(--size-marker);
+  height: var(--size-marker);
+  margin-right: var(--space-2);
+  border-radius: 50%;
+  background: var(--color-conditions-poor);
+}
+
+.route-row__conditions[data-conditions="prime"]::before {
+  background: var(--color-conditions-prime);
+}
+
+.route-row__conditions[data-conditions="fair"]::before {
+  background: var(--color-conditions-fair);
+}
+
+.route-row__conditions {
+  text-transform: capitalize;
+}
+
+.route-row__score {
+  color: var(--color-text-muted);
+  font-size: var(--font-size-small);
+}
+
+@media (min-width: 56rem) {
+  .route-row {
+    grid-template-columns: var(--route-columns);
+    column-gap: var(--space-3);
+    align-items: start;
+  }
+
+  /* The column header row labels the cells, so the per-cell labels are hidden visually. */
+  .route-row__facts {
+    display: contents;
+  }
+
+  .route-row__facts dt {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+}
