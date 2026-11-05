@@ -1,6 +1,6 @@
 # Contributing to Cairn
 
-Cairn grades GitHub projects from beginner to expert so new contributors can find a fit. Contributions to the site, the scoring and the data pipeline are all welcome.
+Cairn grades GitHub projects from beginner to expert so new contributors can find a fit. Contributions to the site, the scoring and the data pipeline are all welcome. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Set up
 

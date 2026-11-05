@@ -29,7 +29,7 @@ A GitHub Actions workflow runs the pipeline every Monday at 03:00 UTC, commits t
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Wrong grades and scoring ideas are especially useful.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Wrong grades and scoring ideas are especially useful. Everyone taking part is expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
