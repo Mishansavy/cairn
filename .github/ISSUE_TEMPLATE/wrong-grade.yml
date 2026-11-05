@@ -1,0 +1,30 @@
+name: Wrong grade
+description: A project's grade or conditions look wrong
+labels: [scoring]
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: The project as owner/name, for example psf/requests
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What looks wrong
+      options:
+        - Grade is too high
+        - Grade is too low
+        - Conditions are too high
+        - Conditions are too low
+        - Wrong interest or language
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What you expected and why
+      description: Point to specifics, such as recent PRs, review times or the size of the codebase.
+    validations:
+      required: true
