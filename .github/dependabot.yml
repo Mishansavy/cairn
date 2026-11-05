@@ -1,0 +1,21 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    commit-message:
+      prefix: deps
+    groups:
+      github-actions:
+        patterns: ["*"]
+
+  - package-ecosystem: npm
+    directory: /site
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: deps
+    groups:
+      site-dependencies:
+        patterns: ["*"]
