@@ -25,7 +25,7 @@ The site reads `data/projects.json` and needs no token. To regenerate the data, 
 
 ## How the data stays fresh
 
-A GitHub Actions workflow runs the pipeline every Monday at 03:00 UTC, commits the new data, and redeploys the site to GitHub Pages.
+A GitHub Actions workflow runs the pipeline every Monday at 03:00 UTC, commits the new data to the `data` branch, and redeploys the site to GitHub Pages.
 
 ## Contributing
 
